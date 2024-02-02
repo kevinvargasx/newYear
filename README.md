@@ -4,7 +4,7 @@
 
 ## Vista previa
 
-![Vista previa](image.jpg)
+![Vista previa](image.jpg) ![](image2.jpg)
 
 ## Cómo usar
 
